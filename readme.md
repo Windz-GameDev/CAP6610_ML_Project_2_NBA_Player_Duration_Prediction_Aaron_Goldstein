@@ -44,7 +44,9 @@ Example Usage:
 python main.py --knn --rf
 ```
 
-The above command will run predictions just for K-Nearest Neighbors and Random Forest. Logistic Regression and Multi-layer Perceptron Classifier will be skipped.
+The above command will run predictions just for K-Nearest Neighbors and Random Forest. Logistic Regression and Multi-layer Perceptron Classifier will be skipped. Here is some example output: 
+
+![image](https://github.com/Windz-GameDev/CAP6610_ML_Project_2_NBA_Player_Duration_Prediction_Aaron_Goldstein/assets/97154040/7d1e6681-f9f4-4416-95b4-5c98f408b812)
 
 # Results
 
